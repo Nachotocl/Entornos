@@ -1,0 +1,25 @@
+Crea un repositorio y explica los pasos que has seguido. 
+
+ 
+
+Indica qué pasos tienes que hacer para invitar a participar a dos compañeros en tu repositorio. 
+
+ 
+
+Explica y documenta los pasos que has tenido que dar para participar en el proyecto de uno de tus compañeros. 
+
+ 
+
+Las issues además de para resolver problemas, pueden servir para que el administrador del repositorio administre el trabajo. 
+
+ 
+
+Asigna tareas a cada uno de los miembros de tu repositorio. Debes utilizar etiquetas. Algunas tareas deben ser genéricas y otras específicas para un compañero. 
+
+ 
+
+Cuando hagas una tarea como colaborador, debes cerrarla 
+
+ 
+
+El administrador debe crear un milestone y asignar issues para ver la evolución de los mismos. 
